@@ -1,4 +1,4 @@
-# Images being shown in a tiled manner after being fetched from the Unsplash API
+# Showing search results
 
 ![Capture](https://user-images.githubusercontent.com/60378949/129486215-edcbe1b6-20cc-4d6a-82dc-7c2695e4d458.PNG)
 
